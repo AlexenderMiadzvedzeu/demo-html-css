@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.primary {
+  font-style: italic;
+  color: #2b1147;
+}
+
+.secondary {
+  font-weight: bold;
+  color: #981841;
+}
+
+img {
+  width: 800px;
+}
