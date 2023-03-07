@@ -23,10 +23,12 @@ code {
 
 .primary {
   font-style: italic;
+  color: #2b1147;
 }
 
 .secondary {
   font-weight: bold;
+  color: #981841;
 }
 
 img {

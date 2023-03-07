@@ -3,8 +3,8 @@ import './App.css';
 
 const ELEMENTS_WITH_BOTH_CLASSES = `
   <div>
-    <p class='primary' class='secondary'>This element with both classes. "primary" is last</p>
-    <p class='secondary' class='primary'>This element with both classes. "secondary" is last</p>
+    <p class='primary' class='secondary'>This element with both classes. "primary" is first</p>
+    <p class='secondary' class='primary'>This element with both classes. "secondary" is first</p>
   </div
 `
 
